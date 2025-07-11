@@ -65,6 +65,6 @@ npm run dev
 ```
 
 ### 🧪 .env Configuration (Backend)
-- MONGODB_URI=mongodb+srv://<user>:<password>@cluster.mongodb.net/job_portal
+- MONGODB_URI=mongodb+srv://user:password@cluster.mongodb.net/job_portal
 
 ### Please give a ⭐ to the repository if you like it.
