@@ -1,12 +1,5 @@
 # 🧑‍💼 Job Portal App
 
-![GitHub repo size](https://img.shields.io/github/repo-size/ChanduSugguna01/Job_Portel_App)
-![GitHub stars](https://img.shields.io/github/stars/ChanduSugguna01/Job_Portel_App?style=social)
-![GitHub forks](https://img.shields.io/github/forks/ChanduSugguna01/Job_Portel_App?style=social)
-![GitHub issues](https://img.shields.io/github/issues/ChanduSugguna01/Job_Portel_App)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/ChanduSugguna01/Job_Portel_App)
-![GitHub last commit](https://img.shields.io/github/last-commit/ChanduSugguna01/Job_Portel_App)
-![GitHub license](https://img.shields.io/github/license/ChanduSugguna01/Job_Portel_App)
 
 
 A full-stack Job Portal web application that allows job seekers to search and apply for jobs and recruiters to post job listings. Built using React, Node.js, Express, and MongoDB.
@@ -40,13 +33,20 @@ A full-stack Job Portal web application that allows job seekers to search and ap
 
 
 
-
 ## 🧑‍💻 Getting Started
 
 ### Prerequisites
 - Node.js & npm
 - MongoDB
 - Git
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/ChanduSugguna01/Job_Portel_App.git
+cd Job_Portel_App
+```
+
 
 ### Backend Setup
 
@@ -64,4 +64,7 @@ npm install
 npm run dev
 ```
 
+### 🧪 .env Configuration (Backend)
+- MONGODB_URI=mongodb+srv://<user>:<password>@cluster.mongodb.net/job_portal
 
+### Please give a ⭐ to the repository if you like it.
