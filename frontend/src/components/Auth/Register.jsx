@@ -96,7 +96,7 @@ const Register = () => {
               <label>Phone Number</label>
               <div>
                 <input
-                  type="number"
+                  type="tel"
                   placeholder="Enter your phone"
                   value={phone}
                   onChange={(e) => setPhone(e.target.value)}
